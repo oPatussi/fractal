@@ -1,7 +1,7 @@
 import turtle
 
 #Config. Screen
-WIDTH, HEIGHT = 500,500
+WIDTH, HEIGHT = 500,5
 screen = turtle.Screen()
 screen.setup(WIDTH,HEIGHT)
 screen.screensize(WIDTH,HEIGHT)
