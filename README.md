@@ -42,8 +42,8 @@ padrões surpreendentes.
 O padrão a seguir é um ótimo exemplo de como funciona a lógica dos fractais.
 <img src="rsc/fractal-floco.gif">
 
-Sendo que sempre em uma nova geração, ocorre as mudanças de acordo com as 
-regras propostas no código.
+Sendo que sempre ocorre uma nova geração, as mudanças de acordo com as 
+regras propostas no código são aplicadas.
 
 Porém, esse é apenas um padrão relativamente simples.
 
